@@ -16,7 +16,7 @@ I love playing the piano and photograph. I'll be very happy if we can talk about
 
 <font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers</font>
 
-======
+** **
 
 Research
 ======
