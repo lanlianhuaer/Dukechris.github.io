@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Xiao Zhang"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Deep Learning & Computer Vision Researcher"
   location         : "Beijing/Shenzhen/Hong Kong, China"
   employer         :
-  googlescholar    : "http://dukechris.github.com"
+  googlescholar    : "http://dukechris.github.io"
   email            : "zhangx9411@gmail.com"
   uri              :
   bitbucket        :
