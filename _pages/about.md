@@ -16,6 +16,8 @@ I love playing the piano and photograph. I'll be very happy if we can talk about
 
 <font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers</font>
 
+======
+
 Research
 ======
 I am interested in **deep learning** and its applications on **computer vision** for face recognition. I expect to do some end-to-end research in these areas.
