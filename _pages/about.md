@@ -14,7 +14,7 @@ I am also a visiting student at Multimedia Lab, supervised by Prof. Yu Qiao, She
 I love playing the piano and photograph. I'll be very happy if we can talk about these.
 
 
-<font>. <font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers</font>
+<font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers</font>
 
 Research
 ======
