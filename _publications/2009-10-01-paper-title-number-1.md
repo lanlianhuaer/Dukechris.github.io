@@ -5,11 +5,11 @@ permalink: /publication/2017-10-22-paper-title-number-1
 excerpt: ''
 date: 2017-10-22
 venue: 'Oct 22'
-paperurl: 'http://academicpages.github.io/files/range.pdf'
+paperurl: 'http://dukechris.github.io/files/range.pdf'
 citation: 'Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. Range Loss for Deep Face Recognition with Long-Tailed Training Data. in ICCV, 2017.'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/range.pdf)
+[Download paper here](http://dukechris.github.io/files/range.pdf)
 
 **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. Range Loss for Deep Face Recognition with Long-Tailed Training Data. in ICCV, 2017.
