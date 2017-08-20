@@ -10,7 +10,11 @@ redirect_from:
 
 <font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers!</font>
 
+** **
+
 <font color="red">I'm looking for a Ph.D position in Computer Vision and Deep learning in 2018 fall.</font>
+
+** **
 
 I got my Bsc. Engineering on Software Engineering in Tianjin University at 2017 fall. I'm also minored in financial management. 
 Now I am an intern computer vision researcher, supervised by Dr. Junjie Yan at SenseTime and do research about face recognition and deep learning.
