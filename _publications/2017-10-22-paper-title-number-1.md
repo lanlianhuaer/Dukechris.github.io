@@ -1,7 +1,7 @@
 ---
 title: "Range Loss for Deep Face Recognition with Long-Tailed Training Data"
 collection: publications
-permalink: /publication/2017-10-22-paper-title-number-1
+permalink: /publications/2017-10-22-paper-title-number-1
 excerpt: ''
 date: 2017-10-22
 venue: 'Oct 22'
