@@ -18,8 +18,8 @@ redirect_from:
 
 I got my Bsc. Engineering on Software Engineering in Tianjin University at 2017 fall. I'm also minored in financial management. 
 Now I am an intern computer vision researcher, supervised by Dr. Junjie Yan at SenseTime and do research about face recognition and deep learning.
-I am also a visiting student at Multimedia Lab, supervised by Prof. Yu Qiao, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
-I'm very luck to have close cooperation with Zhiyuan Fang 
+I am also a visiting student at Multimedia Lab, supervised by [Prof. Yu Qiao](mmlab.siat.ac.cn/yuqiao/), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
+I'm very luck to have close cooperation with [**Zhiyuan Fang**](jacobswan1.github.io). 
 I love playing the piano and photograph. I'll be very happy if we can talk about these.
 
 
@@ -39,3 +39,7 @@ Publication
 Academic Services
 ======
 - Conference Reviewer: CCBR 2017
+
+Friends
+======
+- [Zhiyuan Fang](hacobswan1.github.io): Ph.D student in Arizona State University
