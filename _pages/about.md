@@ -45,4 +45,4 @@ Friends
 - [Zhiyuan Fang](https://hacobswan1.github.io): Ph.D student in Arizona State University
 - [Yandong Wen](https://ydwen.github.io): Ph.D student in Carnegie Mellon University
 - [Xindi Liu](https://elson8080.github.io): Full stack engineer in Meituan.com
-- [Sishun Deng](https://www.velacielad.com):UX Designer 
+- [Sishun Deng](https://www.velacielad.com): UX Designer 
