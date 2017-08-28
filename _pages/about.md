@@ -43,3 +43,4 @@ Academic Services
 Friends
 ======
 - [Zhiyuan Fang](https://hacobswan1.github.io): Ph.D student in Arizona State University
+- [Yandong Wen](https://ydwen.github.io): Ph.D student in Carnegie Mellon University
