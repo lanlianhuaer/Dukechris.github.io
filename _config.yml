@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiao Zhang"
+title                    : "Wenbin Du"
 title_separator          : "-"
-name                     : &name "Xiao Zhang"
+name                     : &name "Wenbin Du"
 description              : &description "personal description"
-url                      : https://dukechris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lanlianhuaer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dukechris/dukechris.github.io"
+repository               : "lanlianhuaer/lanlianhuaer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiao Zhang"
+  name             : "Wenbin Du"
   avatar           : "avatar.jpg"
   bio              : "Deep Learning & Computer Vision Researcher"
-  location         : "Beijing/Shenzhen/Hong Kong, China"
+  location         : "Shenzhen, China"
   employer         :
-  googlescholar    : "http://dukechris.github.io"
-  email            : "zhangx9411@gmail.com"
+  googlescholar    : "http://lanlianhuaer.github.io"
+  email            : "wb.du@siat.ac.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dukechris"
+  github           : "lanlianhuaer"
   google_plus      :
   keybase          :
   instagram        :
