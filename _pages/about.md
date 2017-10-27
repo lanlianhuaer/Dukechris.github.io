@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <font color="red">One paper accepted by ICCV 2017(Oral)</font>
+<br/>
 <font color="red">One paper accept(with  mandatory minor revisions) by TIP 2017</font>
 
 <br/>
@@ -27,8 +28,9 @@ I'm very luck to have close cooperation with [**Yali Wang**].
 Research
 ======
 My research mainly focused on **Recurrent Network**, especially LSTM, and its applications on video based **action recognition**.
-I expect to do some end-to-end research in these areas.
-I also interested in reinforcement learning, machine learning and information visualization.
+<!--I expect to do some end-to-end research in these areas.-->
+I also interested in reinforcement learning and machine learning 
+<!--and information visualization.-->
 
 Publication
 ======
