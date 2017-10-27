@@ -13,7 +13,7 @@ redirect_from:
 <font color="red">I'm looking for a postdoctoral positions in Computer Vision and Deep learning in 2018 fall.</font>
 <br/>
 I'm a PhD student at Shenzhen Institute of Advanced Technology, supervised by [**Prof. Yu Qiao**](https://mmlab.siat.ac.cn/yuqiao/), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
-I'm very luck to have close cooperation with [**Yali Wang**].
+I'm very luck to have close cooperation with [**Dr. Yali Wang**].
 
 
 
