@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 <font color="red">One paper accepted by ICCV 2017(Oral)</font>
-<br/>
 <font color="red">One paper accept(with  mandatory minor revisions) by TIP 2017</font>
-<br/>
 <font color="red">I'm looking for a postdoctoral positions in Computer Vision and Deep learning in 2018 fall.</font>
 <br/>
 I'm a PhD student at Shenzhen Institute of Advanced Technology, supervised by [**Prof. Yu Qiao**](https://mmlab.siat.ac.cn/yuqiao/), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
