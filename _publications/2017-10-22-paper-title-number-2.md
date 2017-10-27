@@ -1,7 +1,7 @@
 ---
 title: "RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos"
 collection: publications
-permalink: /publications/2017-10-22-paper-title-number-1
+permalink: /publications/2017-10-22-paper-title-number-2
 excerpt: ''
 date: 2017-10-22
 venue: 'Oct 22'
