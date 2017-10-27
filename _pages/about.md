@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red">One paper accepted by ICCV 2017(Oral), it's my first publication ~ cheers!</font>
+<font color="red">One paper accepted by ICCV 2017(Oral)</font>
+<font color="red">One paper accepted by TIP 2017</font>
 
 <br/>
 
@@ -33,7 +34,8 @@ Publication
 ======
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
-- **Wenbin Du**, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos. in ICCV, 2017.'
+- **Wenbin Du**, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos. in ICCV, 2017.
+- **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videoson. in TIP, 2017.
 
 
 <!--Academic Services-->
@@ -45,4 +47,4 @@ Friends
 - [Xiao Zhang](https://Duckchris.github.io)
 <!--- [Yandong Wen](https://ydwen.github.io): Ph.D student in Carnegie Mellon University-->
 <!--- [Xindi Liu](https://elson8080.github.io): Full stack engineer in Meituan.com-->
-<!--- [Sishun Deng](https://www.velacielad.com): UX Designe-->r 
+<!--- [Sishun Deng](https://www.velacielad.com): UX Designe-->
