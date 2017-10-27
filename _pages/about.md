@@ -35,7 +35,7 @@ Publication
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
 - **Wenbin Du**, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos. in ICCV, 2017.
-- **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videoson. in TIP, 2017.
+- **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos. in TIP, 2017.(accept with  mandatory minor revisions)
 
 
 <!--Academic Services-->
