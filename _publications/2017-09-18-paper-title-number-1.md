@@ -12,5 +12,3 @@ paperurl: ''
 <!--[Download paper here](http://lanlianhuaer.github.io/files/Du_RPAN.pdf)-->
 
 **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos, in TIP 2017.(accept with  mandatory minor revisions)
-
----

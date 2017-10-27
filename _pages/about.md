@@ -29,7 +29,7 @@ Research
 ======
 My research mainly focused on **Recurrent Network**, especially LSTM, and its applications on video based **action recognition**.
 <!--I expect to do some end-to-end research in these areas.-->
-I also interested in reinforcement learning and machine learning 
+I‘m also interested in reinforcement learning and machine learning 
 <!--and information visualization.-->
 
 Publication
