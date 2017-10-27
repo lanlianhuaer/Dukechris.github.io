@@ -13,6 +13,3 @@ citation: 'Wenbin Du, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Att
 [Download paper here](http://lanlianhuaer.github.io/files/Du_RPAN.pdf)
 
 **Wenbin Du**, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos. in ICCV, 2017.
-
-
----
