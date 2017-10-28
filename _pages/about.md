@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <font color="red">One paper accepted by ICCV 2017(Oral)</font>
-
+<br/>
 <font color="red">One paper accept(with  mandatory minor revisions) by TIP 2017</font>
 
 <font color="red">I'm looking for a postdoctoral positions in Computer Vision and Deep learning in 2018 fall.</font>
