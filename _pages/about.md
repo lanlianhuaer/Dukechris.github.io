@@ -10,7 +10,7 @@ redirect_from:
 
 <font color="red">One paper accepted by ICCV 2017(Oral)</font>
 <br/>
-<font color="red">One paper accept(with  mandatory minor revisions) by TIP 2017</font>
+<font color="red">One paper accepted by TIP 2017</font>
 <br/>
 <font color="red">I'm looking for a postdoctoral positions in Computer Vision and Deep learning in 2018 fall.</font>
 <br/>
@@ -30,7 +30,7 @@ Publication
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
 <!--- **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. "Range Loss for Deep Face Recognition with Long-Tailed Training Data." *The 15th IEEE International Conference on Computer Vision (**ICCV'17**)*, Venice, Italy, 2017. (Accepted)  [PDF will be released soon]-->
 - **Wenbin Du**, Yali Wang, Yu Qiao. RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos. in ICCV, 2017.
-- **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos. in TIP, 2017.(accept with  mandatory minor revisions)
+- **Wenbin Du**, Yali Wang, Yu Qiao. Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos. in TIP, 2017.
 
 
 <!--Academic Services-->
