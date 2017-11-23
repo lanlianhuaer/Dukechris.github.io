@@ -39,7 +39,7 @@ Publication
 
 Friends
 ======
-- [Xiao Zhang](https://Duckchris.github.io)
+- [Xiao Zhang](https://Dukechris.github.io)
 <!--- [Yandong Wen](https://ydwen.github.io): Ph.D student in Carnegie Mellon University-->
 <!--- [Xindi Liu](https://elson8080.github.io): Full stack engineer in Meituan.com-->
 <!--- [Sishun Deng](https://www.velacielad.com): UX Designe-->
